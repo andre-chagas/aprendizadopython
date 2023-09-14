@@ -5,7 +5,7 @@
 # deve ser contido dentro de uma única
 # expressão.
 # lista = [
-#     {'nome': 'André', 'sobrenome': 'chagas'},
+#     {'nome': 'André', 'sobrenome': 'Chagas'},
 #     {'nome': 'Maria', 'sobrenome': 'Oliveira'},
 #     {'nome': 'Daniel', 'sobrenome': 'Silva'},
 #     {'nome': 'Eduardo', 'sobrenome': 'Moreira'},
