@@ -8,7 +8,7 @@ Conta (ABC)
     ContaPoupanca
 Pessoa (ABC)
     Cliente
-        Clente -> Conta
+        Clente -> Conta (um para um ou um para muitos) 
 Banco
     Banco -> Cliente
     Banco -> Conta
