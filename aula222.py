@@ -49,4 +49,4 @@ for root, dirs, files in os.walk(caminho):
         tamanho = stats.st_size
         print('  ', the_counter, 'FILE:', file_, formata_tamanho(tamanho))
         # NÃO FAÇA ISSO (VAI APAGAR TUDO DA PASTA)
-        # os.unlink(caminho_completo_arquivo)
+        # os.unlink(caminho_completo_arquivo)aula
