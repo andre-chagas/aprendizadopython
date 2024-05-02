@@ -13,7 +13,7 @@ class Eletronico:
         if self._ligado:
          self._ligado = False
 
-class Smartphone(Eletronico, LogFileMixin):
+class Smartphone(Eletronico, LogFile¾Mixin):
     def ligar(self):
         super().ligar()
 
