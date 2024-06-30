@@ -6,7 +6,7 @@
     "explorer.compactFolders": false,
     "terminal.integrated.fontSize": 24,
     "editor.rulers": [80, 120],
-    "workbench.colorTheme": "Dracula At Night",
+    "workbench.colorTheme": "Bearded Theme Arc",
     "workbench.iconTheme": "material-icon-theme",
     "code-runner.executorMap": {
       "python": "clear ; python -u"
