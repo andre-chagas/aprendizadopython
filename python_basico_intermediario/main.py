@@ -1,6 +1,6 @@
 caminho_arquivo = 'aula152.txt'
 
-with open(caminho_arquivo, 'w', enconding='utf-8') as arquivo:
+with open(caminho_arquivo, 'w', encoding='utf-8') as arquivo:
     
     arquivo.write('Atenção\r\n')
     arquivo.write('linha 1\r\n')
